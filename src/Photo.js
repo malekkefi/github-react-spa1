@@ -4,7 +4,7 @@ class Photo extends Component {
         return(
             <div>
                 <h2>Welcome to my App</h2>
-                <img src="/images/20.jpg" alt=""></img>
+                <img src="https://images.pexels.com/photos/20787/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=350" alt=""></img>
                 <img src="/images/30.jpg" alt="" class="center"></img>
                 <img src="/images/80.jpg" alt=""></img>
             </div>
